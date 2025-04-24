@@ -1,0 +1,47 @@
+/* Light (default) theme */
+.theme-default {
+    --primary: #4caf50;
+    --primary-hover: #45a049;
+    --background: #ffffff;
+    --text: #2c3e50;
+    --card-bg: #f8f9fa;
+    --border: #e0e0e0;
+    --error: #e74c3c;
+    --success: #2aaf62;
+}
+
+/* Dark theme */
+.theme-dark {
+    --primary: #666;
+    --primary-hover: #555;
+    --background: #333;
+    --text: #f8f9fa;
+    --card-bg: #444;
+    --border: #555;
+    --error: #ff6b6b;
+    --success: #4caf50;
+}
+
+/* Blue theme */
+.theme-blue {
+    --primary: #2196f3;
+    --primary-hover: #1976d2;
+    --background: #e6f2ff;
+    --text: #003366;
+    --card-bg: #ffffff;
+    --border: #bbdefb;
+    --error: #f44336;
+    --success: #4caf50;
+}
+
+html {
+    background-color: var(--background);
+    color: var(--text);
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.card {
+    background-color: var(--card-bg);
+    border: 1px solid var(--border);
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}

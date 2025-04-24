@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "category": "Istorie",
+    "difficulty": "Mediu",
+    "question": "Cine a fost primul domnitor al Țării Românești?",
+    "options": ["Mircea cel Bătrân", "Vlad Țepeș", "Mihai Viteazul", "Basarab I"],
+    "correct": "Basarab I"
+  },
+  {
+    "id": 2,
+    "category": "Istorie",
+    "difficulty": "Simplu",
+    "question": "În ce an s-a încheiat Primul Război Mondial?",
+    "options": ["1914", "1918", "1945", "1939"],
+    "correct": "1918"
+  },
+  {
+    "id": 3,
+    "category": "Geografie",
+    "difficulty": "Simplu",
+    "question": "Care este capitala Australiei?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "correct": "Canberra"
+  },
+  {
+    "id": 4,
+    "category": "Știință",
+    "difficulty": "Mediu",
+    "question": "Cine a descoperit penicilina?",
+    "options": ["Louis Pasteur", "Alexander Fleming", "Marie Curie", "Albert Einstein"],
+    "correct": "Alexander Fleming"
+  },
+  {
+    "id": 5,
+    "category": "Artă",
+    "difficulty": "Greu",
+    "question": "Cine a pictat tabloul „Persistența memoriei”?",
+    "options": ["Pablo Picasso", "Salvador Dalí", "Vincent van Gogh", "Claude Monet"],
+    "correct": "Salvador Dalí"
+  },
+  {
+    "id": 6,
+    "category": "Literatură",
+    "difficulty": "Mediu",
+    "question": "Cine este autorul romanului „Ion”?",
+    "options": ["Liviu Rebreanu", "Mihai Eminescu", "Mircea Eliade", "Marin Preda"],
+    "correct": "Liviu Rebreanu"
+  },
+  {
+    "id": 7,
+    "category": "Geografie",
+    "difficulty": "Mediu",
+    "question": "Care este cel mai lung fluviu din lume?",
+    "options": ["Amazon", "Nil", "Yangtze", "Mississippi"],
+    "correct": "Nil"
+  },
+  {
+    "id": 8,
+    "category": "Știință",
+    "difficulty": "Simplu",
+    "question": "Ce reprezintă formula chimică H2O?",
+    "options": ["Sare", "Apă", "Oxigen", "Dioxid de carbon"],
+    "correct": "Apă"
+  },
+  {
+    "id": 9,
+    "category": "Sport",
+    "difficulty": "Mediu",
+    "question": "Ce țară a câștigat Campionatul Mondial de Fotbal din 2018?",
+    "options": ["Franța", "Brazilia", "Germania", "Croația"],
+    "correct": "Franța"
+  },
+  {
+    "id": 10,
+    "category": "Muzică",
+    "difficulty": "Mediu",
+    "question": "Cine a compus „Anotimpurile”?",
+    "options": ["Johann Sebastian Bach", "Antonio Vivaldi", "Wolfgang Amadeus Mozart", "Ludwig van Beethoven"],
+    "correct": "Antonio Vivaldi"
+  },
+  {
+    "id": 11,
+    "category": "Istorie",
+    "difficulty": "Greu",
+    "question": "Cine a condus URSS-ul în timpul celui de-Al Doilea Război Mondial?",
+    "options": ["Vladimir Lenin", "Iosif Stalin", "Nikita Hrușciov", "Mihail Gorbaciov"],
+    "correct": "Iosif Stalin"
+  },
+  {
+    "id": 12,
+    "category": "Geografie",
+    "difficulty": "Simplu",
+    "question": "Care este cel mai populat stat din lume?",
+    "options": ["India", "Statele Unite", "China", "Indonezia"],
+    "correct": "China"
+  },
+  {
+    "id": 13,
+    "category": "Știință",
+    "difficulty": "Greu",
+    "question": "Care este simbolul chimic pentru aur?",
+    "options": ["Ag", "Fe", "Au", "Cu"],
+    "correct": "Au"
+  },
+  {
+    "id": 14,
+    "category": "Literatură",
+    "difficulty": "Greu",
+    "question": "Cine a scris romanul „Enigma Otiliei”?",
+    "options": ["George Călinescu", "Mircea Cărtărescu", "Marin Preda", "Camil Petrescu"],
+    "correct": "George Călinescu"
+  },
+  {
+    "id": 15,
+    "category": "Artă",
+    "difficulty": "Simplu",
+    "question": "În ce țară s-a născut pictorul Vincent van Gogh?",
+    "options": ["Franța", "Italia", "Olanda", "Germania"],
+    "correct": "Olanda"
+  },
+  {
+    "id": 16,
+    "category": "Sport",
+    "difficulty": "Simplu",
+    "question": "În ce țară s-a inventat baschetul?",
+    "options": ["Statele Unite", "Canada", "Marea Britanie", "Australia"],
+    "correct": "Statele Unite"
+  },
+  {
+    "id": 17,
+    "category": "Știință",
+    "difficulty": "Mediu",
+    "question": "Care este unitatea de măsură a rezistenței electrice?",
+    "options": ["Volt", "Amper", "Watt", "Ohm"],
+    "correct": "Ohm"
+  },
+  {
+    "id": 18,
+    "category": "Geografie",
+    "difficulty": "Mediu",
+    "question": "Care este cel mai mic continent?",
+    "options": ["Europa", "Africa", "Australia", "Antarctica"],
+    "correct": "Australia"
+  },
+  {
+    "id": 19,
+    "category": "Istorie",
+    "difficulty": "Greu",
+    "question": "Când a căzut Zidul Berlinului?",
+    "options": ["1985", "1989", "1991", "1975"],
+    "correct": "1989"
+  },
+  {
+    "id": 20,
+    "category": "Știință",
+    "difficulty": "Greu",
+    "question": "Ce particulă atomică are sarcină pozitivă?",
+    "options": ["Electron", "Neutron", "Proton", "Foton"],
+    "correct": "Proton"
+  }
+]
